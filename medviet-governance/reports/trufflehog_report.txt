@@ -1,0 +1,8 @@
+trufflehog was not installed on this machine, so the repository history scan could not be executed locally.
+
+Command requested by README:
+trufflehog git file://. --only-verified
+
+Other completed verification artifacts:
+- reports/test_results.txt
+- reports/bandit_report.json
